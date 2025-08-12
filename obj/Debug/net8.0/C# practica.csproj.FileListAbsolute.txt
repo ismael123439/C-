@@ -1,0 +1,14 @@
+C:\Users\NITRO\Desktop\C# practica\bin\Debug\net8.0\C# practica.exe
+C:\Users\NITRO\Desktop\C# practica\bin\Debug\net8.0\C# practica.deps.json
+C:\Users\NITRO\Desktop\C# practica\bin\Debug\net8.0\C# practica.runtimeconfig.json
+C:\Users\NITRO\Desktop\C# practica\bin\Debug\net8.0\C# practica.dll
+C:\Users\NITRO\Desktop\C# practica\bin\Debug\net8.0\C# practica.pdb
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.AssemblyInfoInputs.cache
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.AssemblyInfo.cs
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.dll
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\refint\C# practica.dll
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.pdb
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.genruntimeconfig.cache
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\ref\C# practica.dll
