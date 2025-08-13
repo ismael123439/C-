@@ -12,3 +12,4 @@ C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\refint\C# practica.dll
 C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.pdb
 C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.genruntimeconfig.cache
 C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\ref\C# practica.dll
+C:\Users\NITRO\Desktop\C# practica\obj\Debug\net8.0\C# practica.sourcelink.json
