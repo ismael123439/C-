@@ -322,4 +322,22 @@
 // }
 
 
+//--------------------------------SECCION 24 EXEPCIONES-----------------------------------------------------------------
+
+            // try
+            // {
+            //     int data = Convert.ToInt32("k");
+            // }
+            // catch (Exception e)
+            // {
+            //     string m = e.Message;
+            //     throw;
+            // }
+            // finally
+            // {
+            //     Console.WriteLine("buenas");
+            // }
+
+
+
 //20-21-22-24-27--28-29-30
